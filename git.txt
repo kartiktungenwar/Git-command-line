@@ -12,4 +12,8 @@ git remote add upstream https://github.com:USER/PROJECT.git
 git push upstream master
 git push --tags upstream
 
+git remote show origin
 
+git add *
+git commit -m with the message
+git push
