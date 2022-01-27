@@ -20,3 +20,12 @@ git remote show origin
 git add *
 git commit -m with the message
 git push
+
+git checkout master
+git merge merge_branch_name //merge master with branch
+git push origin master
+git tag -a -m "your message" v1.0.0 // create tag
+git push origin v1.0.0 //push tag
+
+
+
